@@ -3,7 +3,19 @@ layout: post
 title: BlocJams
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
-short-description: BlocJams for iOS is awesome!
+short-description: Streaming Music Service!
 
 ---
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+
+### Explanation
+
+BlocJams is a browser based replica of Spotify.  It allows the user to select, view, and play any album of their choosing.  This was a great way to showcase my knowledge of front end fundamentals such as HTML, CSS, Javascript, and DOM.  When the project was completed we converted all of the vanilla Javascript into JQuery.
+---
+### Problem
+---
+### Solution
+---
+### Results
+---
+### Conclusion
+---
