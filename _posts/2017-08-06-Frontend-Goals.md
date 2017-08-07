@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sample post
+title: My Goals as a Frontend Developer
 ---
-Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
+I think about what my future may look like when I complete the Bloc program often.  Ultimately, I believe most of us want a high paying job with great flexibility of schedule, but I understand that there is still so much to learn and want to continue doing so in a comfortable position on a team when I can meet, learn and create with new developers.  
 
 * Consectetur adipiscing elit
 * Donec a diam lectus
