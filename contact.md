@@ -2,16 +2,20 @@
 layout: page
 title: Contact
 permalink: /contact/
-feature-img: "img/color.png"
+feature-img: "img/willow.jpg"
 ---
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+Please feel free to leave me a message and I will respond...hopefully!
 
 <form action="https://getsimpleform.com/messages?form_api_token=82e31b1e3477d49a1b80baba107e62f5" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='https://erinworth.github.io/thank-you/' />
   <input type='text' name='name' placeholder='Your Full Name' />
+
+
   <input type='email' name='email' placeholder='Your E-mail Address' />
+
+
   <textarea name='message' placeholder='Write your message ...'></textarea>
   <input type='submit' value='Send Message' />
 </form>
