@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "0.0.0.0" # the base hostname & protocol for your site
+url: ""http://erinworth.github.io"" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -19,7 +19,7 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: eeworth@gmail.com # Full email address, e.g. "sam@example.com"
+  email_address: "eeworth@gmail.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
