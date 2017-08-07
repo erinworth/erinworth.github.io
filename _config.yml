@@ -5,21 +5,21 @@ url: "0.0.0.0" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Erin Gatewood
+  title: Erin Worth Gatewood
   avatar: ninja.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Developer, Writer, and Wonder Dog Mom.</h1>
+     <h1>Developer, Classically Trained Chef, and Wonder Dog Mom.</h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
-  email_address: eeworth@gmail.com # Full email address, e.g. "sam@example.com"
+  email_address: "eeworth@gmail.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
