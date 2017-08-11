@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The similarities and difference between cooking, baking, and coding.
+title: Baking and coding have quite a bit in common...
 ---
 
 Jeykll supports the use of [Markdown](http://daringfireball.net/projects/markdown/syntax) with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.
