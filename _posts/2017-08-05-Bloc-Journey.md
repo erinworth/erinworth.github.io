@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Bloc Journey
-feature-img: "img/sample_feature_img.png"
+feature-img: "img/peonies.jpg"
 ---
 I have always had a computer in my life.  I was very luck to have a pc back in 1985 that worked using the DOS terminal where you had to make it read the correct drive just to play Face Maker off of a floppy disk.  I feel like even back then I knew eventually my life would come back full circle to computers.  I was always the person who diagnosed the computer when it had hardware issues, but I knew very little of the coding that I would learn through Bloc.
 
