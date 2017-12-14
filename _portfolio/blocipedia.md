@@ -8,9 +8,9 @@ short-description: Wikipedia-Replica
 ---
 ### Explanation
 
-BlocChat is a chatroom application that can send and receive messages in real time.  It was created using Angular JS and Firebase.  Modals were used to create information stored into cookies, which were then pulled from the Firebase database to display the username, available chatrooms, and chatlog to the user.
+Blocidpedia is an application that allows users to create public and private Markdown-based wikis.  We have also integrated Stripe as a way of taking payment to upgrade your account to a premium status.
 
 ---
 ### Technologies Used:
 
-HTML, CSS, AngularJS, Java, and Firebase
+Ruby, Rails,
