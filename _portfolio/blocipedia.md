@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Bloccipedia
-feature-img: "img/bloccipedia.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030974/bloctalk_1x.png"
+feature-img: "img/sample_feature_img_3.png"
+thumbnail-path: "img/bloccipedia.png"
 short-description: Wikipedia-Replica
 
 ---

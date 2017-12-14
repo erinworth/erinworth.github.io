@@ -1,8 +1,8 @@
 ---
 layout: post
 title: BlocChat
-feature-img: "img/bloc_chat.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030974/bloctalk_1x.png"
+feature-img: "img/sample_feature_img_2.png"
+thumbnail-path: "img/bloc_chat.png"
 short-description: Gotta Love a Chatroom!
 
 ---
