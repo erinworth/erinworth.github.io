@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bloccit
-feature-img: "img/sample_feature_img.png"
+feature-img: "img/bloccit.png"
 thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030974/bloctalk_1x.png"
 short-description: Reddit-like Services
 
