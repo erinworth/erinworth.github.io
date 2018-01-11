@@ -18,4 +18,4 @@ HTML, CSS, AngularJS, Java, and Firebase
 ---
 ### GitHub:
 
-[BlocChat](https://github.com/erinworth/bloc-chat)
+[BlocChat](https:://github.com/erinworth/bloc-chat)

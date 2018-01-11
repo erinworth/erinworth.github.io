@@ -1,3 +1,5 @@
+A Jekyll based theme page to help kick start a professional portfolio page.
+
 # Portfolio Iro Theme
 ## Based on Type Theme
 

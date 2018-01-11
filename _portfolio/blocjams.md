@@ -18,4 +18,4 @@ HTML, CSS, Java, and JQuery
 
 ### GitHub:
 
-[Bloccit](https://github.com/erinworth/blocjams)
+[Bloccit](https:://github.com/erinworth/blocjams)
