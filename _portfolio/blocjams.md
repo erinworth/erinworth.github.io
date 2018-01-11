@@ -15,3 +15,7 @@ BlocJams is a browser based replica of Spotify.  It allows the user to select, v
 
 HTML, CSS, Java, and JQuery
 ---
+
+### GitHub:
+
+[Bloccit](https://github.com/erinworth/blocjams)

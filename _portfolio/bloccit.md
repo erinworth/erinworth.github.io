@@ -14,3 +14,8 @@ Just like Reddit, Bloccit will be an app where people can post, vote on, share a
 ### Technologies Used:
 
 Ruby, Rails,
+
+---
+### GitHub:
+
+[Bloccit](https://github.com/erinworth/bloccit)

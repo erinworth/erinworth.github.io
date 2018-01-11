@@ -14,3 +14,8 @@ Blocidpedia is an application that allows users to create public and private Mar
 ### Technologies Used:
 
 Ruby, Rails,
+
+---
+### GitHub:
+
+[Bloccit](https://github.com/erinworth/blocipedia)

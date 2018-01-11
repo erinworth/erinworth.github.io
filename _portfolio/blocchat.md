@@ -14,3 +14,8 @@ BlocChat is a chatroom application that can send and receive messages in real ti
 ### Technologies Used:
 
 HTML, CSS, AngularJS, Java, and Firebase
+
+---
+### GitHub:
+
+[BlocChat](https://github.com/erinworth/bloc-chat)
