@@ -18,4 +18,4 @@ Ruby, Rails,
 ---
 ### GitHub:
 
-[Bloccit](https:://github.com/erinworth/blocipedia)
+[Bloccit](https://github.com/erinworth/blocipedia)
